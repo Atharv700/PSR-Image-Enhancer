@@ -19,9 +19,9 @@ PSRs are areas that never receive sunlight, making them difficult to study using
 
 ##  Screenshots : 
 
-Before: 
+# Before: 
 ![ii1](https://github.com/user-attachments/assets/78d16589-8e5d-4e6c-90ca-2dcaf4021a8c)
-After:
+# After:
 ![enhanced_psr_image](https://github.com/user-attachments/assets/1975103e-94bc-478a-ad2a-de9caeb29f61)
 
 
